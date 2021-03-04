@@ -2,6 +2,8 @@
 
 View project at: https://alinabdata.github.io/book-market-sql/
 
+This project is a part of graduation project for Yandex100 program.
+
 This repository includes: 
 1. Project code- ipynb
 2. Project HTML
