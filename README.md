@@ -1,6 +1,6 @@
 # book-market-sql-queries
 
-View project at: https://alinabdata.github.io/book-market-sql/
+View project at: https://alinabdata.github.io/book-market-sql-queries/
 
 This is an assignment given as part of the graduation project for Yandex100 program.  
 This is not a whole project but only an example of some SQL queries I have written.
