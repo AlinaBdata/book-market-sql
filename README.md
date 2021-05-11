@@ -1,4 +1,4 @@
-# book-market-sql
+# book-market-sql-queries
 
 View project at: https://alinabdata.github.io/book-market-sql/
 
