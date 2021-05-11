@@ -2,7 +2,7 @@
 
 View project at: https://alinabdata.github.io/book-market-sql/
 
-This is an assignment given as part of the graduation project for Yandex100 program.
+This is an assignment given as part of the graduation project for Yandex100 program.  
 This is not a whole project but only an example of some SQL queries.
 
 This repository includes: 
