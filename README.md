@@ -2,13 +2,14 @@
 
 View project at: https://alinabdata.github.io/book-market-sql/
 
-This project is a part of graduation project for Yandex100 program.
+This is an assignment given as part of the graduation project for Yandex100 program.
+This is not a whole project but only an example of some SQL queries.
 
 This repository includes: 
 1. Project code- ipynb
 2. Project HTML
 
-#### Project description: 
+#### Assignment description: 
 The coronavirus took the entire world by surprise, changing everyone's daily routine. City dwellers no longer spent their free time outside, going to cafes and malls; more people were at home, reading books. That attracted the attention of startups that rushed to develop new apps for book lovers. 
 
 You've been given a database of one of the services competing in this market. It contains data on books, publishers, authors, and customer ratings and reviews of books. This information will be used to generate a value proposition for a new product.
